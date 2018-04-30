@@ -1,14 +1,18 @@
 {
   "name": "rl-directory",
   "version": "1.0.0",
-  "description": "",
+  "description": "Read all files lines in directory",
   "main": "index.js",
   "preferGlobal": true,
   "bin": "./index.js",
   "scripts": {},
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Akmal Maulana Azzam",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rehre/rl-directory"
+  },
+  "license": "MIT",
   "dependencies": {
     "commander": "^2.15.1"
   }
