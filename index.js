@@ -7,7 +7,7 @@ const program = require('commander');
 // commander config
 program
   .name('rl-directory')
-  .version('1.0.0', '-v, --version')
+  .version('1.0.1', '-v, --version')
   .description('Read all files lines in directory');
 
 program

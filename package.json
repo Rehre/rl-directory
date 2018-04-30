@@ -1,12 +1,15 @@
 {
   "name": "rl-directory",
-  "version": "1.0.0",
-  "description": "Read all files lines in directory",
+  "version": "1.0.1",
+  "description": "Recursively count all files lines in directory and nested directories",
   "main": "index.js",
   "preferGlobal": true,
   "bin": "./index.js",
   "scripts": {},
-  "keywords": [],
+  "keywords": [
+    "CLI",
+    "Count file line"
+  ],
   "author": "Akmal Maulana Azzam",
   "repository": {
     "type": "git",
